@@ -1,6 +1,9 @@
 # Python Kurs: 5 Tage intensiv
 
+## Unterrichtszeiten
+8:00 - 16:00
+
 ## Pausenzeiten
-10:30 - 10:45
-12:30 - 13:30
-13:30 - 17:00
+9:30 - 9:45
+12:00 - 13:00
+13:00 - 16:00
