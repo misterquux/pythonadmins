@@ -11,7 +11,9 @@
 - https://realpython.com/
 - https://docs.python.org/3/
 
-## Topics Dienstag
-- Listen, Tupel, verschachtelte Liste
-- Dictionaries, Sets,
-- Einführung in Funktionen
+## Topics Mittwoch
+- Funktionen, Parameter
+- Anonyme Funktionen (lambda)
+- Sortierung von Listen und Dicts
+- eingebaute Funktionen max, sum, min
+- Dateien öffnen, Pfade
