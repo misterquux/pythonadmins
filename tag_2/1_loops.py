@@ -1,7 +1,8 @@
 """
-- break (loop abbrechen), 
+- break (loop abbrechen),
 - continue (aktuelle Iteration abbrechen)
 """
+
 servers = ["serv3.prod", "serv2.DEV", "www.home"]
 
 # break beendet die aktulle Schleife
@@ -15,6 +16,6 @@ for server in servers:
 for server in servers:
     if "serv" in server.lower():
         print("Serv-Server brauchen kein Backup")
-        continue 
+        continue
 
     print("Mache Backup:", server)

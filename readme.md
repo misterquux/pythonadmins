@@ -10,10 +10,15 @@
 ## Docs
 - https://realpython.com/
 - https://docs.python.org/3/
+- https://docs.python.org/3/library/exceptions.html
 
-## Topics Mittwoch
-- Funktionen, Parameter
-- Anonyme Funktionen (lambda)
-- Sortierung von Listen und Dicts
-- eingebaute Funktionen max, sum, min
-- Dateien öffnen, Pfade
+
+## Topics Donnerstag
+- Dateien schreiben
+- Module importieren und 
+- Json, CSV, Yaml
+
+
+## Topics Freitag
+- pip, uv
+- eigene module schreiben

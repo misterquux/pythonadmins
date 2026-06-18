@@ -1,0 +1,19 @@
+app:
+  name: MeineApp
+  version: 1.0
+database:
+  engine: sqlite
+  name: app.db
+server:
+  debug: true
+  host: 127.0.0.1
+  port: 8000
+users:
+- name: Alice
+  role: admin
+- name: Bob
+  role: user
+- name: Grumpy
+  role: developer
+- name: Otto
+  role: chef
