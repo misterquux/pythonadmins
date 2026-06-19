@@ -1,0 +1,13 @@
+timestamp,server,level,message
+2026-06-19 13:45:12,web01,INFO,Application started
+2026-06-19 13:58:33,web01,WARN,High memory usage
+2026-06-19 14:05:11,web01,ERROR,Database connection failed
+2026-06-19 14:15:44,web02,INFO,User login
+2026-06-19 14:22:31,web03,ERROR,Disk almost full
+2026-06-19 14:48:07,web01,INFO,Database reconnected
+2026-06-19 15:03:18,web02,WARN,Slow response time
+2026-06-19 15:17:55,web03,ERROR,Service unavailable
+2026-06-19 15:42:21,web01,INFO,Backup started
+2026-06-19 15:55:09,web02,ERROR,Network timeout
+2026-06-19 16:08:44,web03,INFO,Service restored
+2026-06-19 16:30:12,web01,INFO,Backup completed
